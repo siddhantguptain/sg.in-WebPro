@@ -1,0 +1,23 @@
+.homeContainer{
+margin: 2%;
+}
+.homeHead{
+    /* display: flex; */
+    display:inline;
+    gap: 1%;
+}
+.homeHeadCoded{
+    font-size: 1.5rem;
+    opacity: 0.3;
+    display: inline;
+
+}
+.homeHeadTitle{
+ font-size: 3rem;
+ display:inline
+}
+
+.homeHeadName{
+    font-size: 14rem;
+    line-height: 100%;
+}

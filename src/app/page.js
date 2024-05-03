@@ -1,9 +1,9 @@
 import Image from "next/image";
-
+import HomeSG from "../components/HomeSG/HomeSG";
 export default function Home() {
   return (
     <main>
-        <h1>Sid Lets Do it !!</h1>
+        <HomeSG />
     </main>
   );
 }
