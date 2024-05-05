@@ -1,0 +1,25 @@
+.footerContainer{
+    top: 90%;
+    margin: 0 2%;
+    padding:0 2%;
+    position: fixed;
+    border: 2px solid whitesmoke;
+}
+.footerContainerCode{
+    display: inline;
+    font-size: 1.5rem;
+    color: rgb(100, 100, 100);
+    font-weight: 300;
+}
+.footerContainerTitle{
+    display: inline;
+    font-size: 2rem;
+    font-weight: 500;
+    color:var(--mainHeading);
+}
+.footerContainerCodeNIL{
+    font-size: 1.5rem;
+    color: rgb(100, 100, 100);
+    margin:0.5% 2%;
+    font-weight: 300;
+}
