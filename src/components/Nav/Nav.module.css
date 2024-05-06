@@ -1,8 +1,11 @@
 .navContainer{
-    margin: 2%;
-    padding:0 2%;
+    top: 0;
+    /* margin: 2%; */
+    padding: 2%;
     position: fixed;
-    border: 2px solid whitesmoke;
+    width: 100%;
+    background: black;
+    /* border: 2px solid whitesmoke; */
 }
 .navContainerCode{
     display: inline;

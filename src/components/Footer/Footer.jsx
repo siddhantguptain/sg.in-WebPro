@@ -5,7 +5,8 @@ const Footer = () =>{
         <>
             <div className={style.footerContainer}>
                 <div className={style.footerContainerCodeNIL}>{`</>`}</div>
-                <div className={style.footerContainerCodeNIL}>{`); }`}</div>
+                <div className={style.footerContainerCodeNIL}>{`);`}</div>
+                <div className={style.footerContainerCodeNIL}>{`}`}</div>
             </div>
         </>
     );
