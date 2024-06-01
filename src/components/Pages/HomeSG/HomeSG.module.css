@@ -1,0 +1,60 @@
+.homeContainer{
+    min-height: 80vh;
+/* margin: 2%; */
+padding: 2%;
+/* border-left: 1px solid grey; */
+
+}
+.homeHead{
+    /* display: flex; */
+    display:inline;
+    gap: 1%;
+}
+.homeHeadCoded{
+    font-size: 1.5rem;
+    color: rgb(61, 60, 60);
+    /* opacity: 0.2; */
+    display: inline;
+
+}
+.homeHeadCodedClass{
+    color: #fff200;
+    opacity: 1;
+    display: inline;
+}
+
+.homeHeadCodedNL{
+    font-size: 1.5rem;
+    opacity: 0.2;
+}
+.homeHeadTitle{
+ font-size: 3rem;
+ color:var(--mainHeading);
+ display:inline
+}
+
+.homeHeadName{
+    font-size: 14rem;
+    line-height: 100%;
+}
+
+.homeBody{
+    margin: 0.5% 2%;
+    padding: 0.5% 2%;
+}
+.homeBodyTitle{
+    margin: 0% 7%;
+    font-size: 7rem;
+    font-weight: 700;
+    color: #c86bfa;
+}
+.homeBodyDesignation{
+    margin: 0.5% 7%;
+    font-size: 3.5rem;
+    font-weight: 400;
+    color: #c86bfa;
+}
+
+.homeBodyBtn{
+    display: inline;
+}
